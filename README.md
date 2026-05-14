@@ -1,4 +1,3 @@
-# Bakery-sales-database
 # Bakery Database Management System
 
 A relational database project built using SQLite to manage bakery orders, customers, baked goods, and transactions.
