@@ -15,7 +15,7 @@ A relational database project built using SQLite to manage bakery orders, custom
 - SQLite
 - SQL
 - DB Browser for SQLite
-- Python (if applicable)
+- Python 
 
 ## Database Structure
 
@@ -57,4 +57,4 @@ GROUP BY order_number;
 
 ## Future Improvements
 
-- Add a frontend interface
+- Add a frontend interface using Python or C++
